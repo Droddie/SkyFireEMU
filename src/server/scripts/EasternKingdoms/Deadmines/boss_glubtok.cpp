@@ -25,6 +25,22 @@ SFComment: TODO: clean up door events and 2 fix warnings@lines(140,146,184)
 SFCategory: dungeon script
 Script Data End */
 
+/*
+Todo : Make a Timer for Yells on phase 2.
+Phase 2 Properties.
+1, Teleport players to the end of the room
+2, Glubtok Casts a Ice Block on all Players. Ice block spell need to be scripted to be dispelled on glubtok arcane power.
+3, Glubtok Yells.
+4, Glubtok Casts Arcane Power and Casts Levitate.
+5, Glubtok Casts Fire,Frost Blossons around The Room.
+Upon Death.
+1, Yells, Too much power
+2, explodes
+3, Corse Become's Soil
+
+Retail Confirmed.
+*/
+
 #include "ScriptPCH.h"
 #include "SpellScript.h"
 #include "SpellAuraEffects.h"
